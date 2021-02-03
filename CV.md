@@ -5,13 +5,14 @@ permalink: /about/
 tags: about
 ---
 
-###Please click here to download my CV as a [[word document]](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.doc) or a [[pdf]](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.pdf)
+#### Please click to download my CV as a [word document](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.doc) or a [pdf](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.pdf)
+
 
 # PROFESSIONAL EXPERIENCE
 
 ## Service Desk Analyst -- June 2020 -- December 2020
 
-> Historic Royal Palaces - London, England
+### Historic Royal Palaces - London, England
 
 -   First point of contact for over 1200 users across multiple Palaces in the UK. Logging and fixing issues through ServiceNow following ITIL. This ranged from Windows, Mac OS X to Surface tablets. Some of these required rebuilds using SCCM.
 
@@ -25,7 +26,7 @@ tags: about
 
 ## IT Engineer -- June 2020 -- June 2020
 
-> CloudyGroup - London, England
+### CloudyGroup - London, England
 
 -   Provided IT support over Microsoft Teams to attendees of the Africa Investors Conference (AIC 2020), this was a short contract role.
 
@@ -35,9 +36,9 @@ tags: about
 
 
 
-## IT Technician -- December 2019 -- January 2020
+### IT Technician -- December 2019 -- January 2020
 
-> Brentside High School - London, England
+#### Brentside High School - London, England
 
 -   Short term contract working on the school\'s ServiceNow service desk that was accessible by over 1500 students. I reduced the number of tickets from over 100 (early December) to just under 20 (mid-January).
 
@@ -47,7 +48,7 @@ tags: about
 
 ## Deployment Engineer -- June 2019 -- December 2019
 
-> Bates Group (UCLH NHS Trust) - London, England
+### Bates Group (UCLH NHS Trust) - London, England
 
 -   Part of a small 2-man team that migrated over 2200 legacy machines to Windows 10 over a s-month period contract that covered a dozen NHS sites.
 
@@ -59,7 +60,7 @@ tags: about
 
 ## Desktop Support Trainee -- Jan 2019 -- June 2019
 
-> QBE Insurance - London, England
+### QBE Insurance - London, England
 
 -   Perform 1st line help desk support using ServiceNow in person and remotely.
 
@@ -104,7 +105,7 @@ tags: about
 
 ##  International Volunteer (Youth Mentor) -- February 2020 -- June 2020
 
-> NavigatorCentrum - Ostersund, Sweden
+### NavigatorCentrum - Ostersund, Sweden
 
 -   Worked with young adults aged 16-25 to help integrate them back into society.
 
@@ -115,7 +116,7 @@ tags: about
 
 ## CoderDojo Mentor -- January 2019 -- Present
 
-> Brent Library - London, England
+### Brent Library - London, England
 
 -   Setting up the 'dojo's computers, signing in children and their parents as they come in
 
@@ -125,7 +126,7 @@ tags: about
 
 ## Helper/Befriender -- March 2017 -- June 2019
 
-> Marie Curie Hospice UK - London, England
+### Marie Curie Hospice UK - London, England
 
 -   Companion/befriending volunteer to people with terminal illness in their own home.
 
@@ -135,7 +136,7 @@ tags: about
 
 ## Event First Aid -- February 2017 -- October 2018
 
-> British Red Cross - London, England
+### British Red Cross - London, England
 
 -   Certified in standard first aid to treat the most common ailments in children and adults.
 
