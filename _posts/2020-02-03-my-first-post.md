@@ -6,4 +6,4 @@ summary:
 categories: potion_seller
 ---
 
-![pogfish](https://media.tenor.com/images/7e03237f3fa99b7dfe27a27f1a1caaaa/tenor.gif = 1000x1000)
+<img src="https://media.tenor.com/images/7e03237f3fa99b7dfe27a27f1a1caaaa/tenor.gif" width="1000" height="1000" />
