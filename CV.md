@@ -130,6 +130,7 @@ Bachelor's Degree, September 2014 -- June 2015
 
 **BA Philosophy**
 <br />
+<br />
 
 ## VOLUNTEER EXPERIENCE
 
