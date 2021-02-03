@@ -87,9 +87,13 @@ tags: CV
 -  Building Windows 10 laptops using SCCM, using Active Directory to create accounts.
 
 -  Assisted in a Europe wide migration of over 4000 machines from Windows 7 to Windows 10.
+
 <br />
+
 ## SKILLS / INTERESTS
+
 <br />
+
 -  Adobe Photoshop: Advanced knowledge and capability.
 
 -  Studying for the Redhat Certified Systems Administrator certification (RHCSA)
@@ -101,7 +105,9 @@ tags: CV
 -  Enhanced DBS check (April 2019)
 
 -  Interests include jazz music, documentaries, yoga, and all things computers!
+
 <br />
+
 ## EDUCATION
 
 <br />
