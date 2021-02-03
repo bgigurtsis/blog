@@ -11,11 +11,11 @@ header_pages:
  - contact.html
 
 # Google services
-google_verification:
+google_verification: UA-188502839-1
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics: UA-188502839-1
-google_tag_manager:
+google_tag_manager: UA-188502839-1 
 # Bing services
 bing_verification:
 
