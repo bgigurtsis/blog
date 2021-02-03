@@ -5,14 +5,19 @@ permalink: /CV/
 tags: CV
 ---
 
-#### Please click to download my CV as a [word document](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.doc) or a [pdf](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.pdf)
+<br />
+
+<br />
+
+**Please click to download my CV as a [word document](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.doc) or a [pdf](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.pdf)**
 
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-## Service Desk Analyst -- June 2020 -- December 2020
 
+### Service Desk Analyst -- June 2020 -- December 2020
 ### Historic Royal Palaces - London, England
+<br />
 
 -   First point of contact for over 1200 users across multiple Palaces in the UK. Logging and fixing issues through ServiceNow following ITIL. This ranged from Windows, Mac OS X to Surface tablets. Some of these required rebuilds using SCCM.
 
@@ -24,9 +29,10 @@ tags: CV
 
 
 
-## IT Engineer -- June 2020 -- June 2020
+### IT Engineer -- June 2020 -- June 2020
 
 ### CloudyGroup - London, England
+<br />
 
 -   Provided IT support over Microsoft Teams to attendees of the Africa Investors Conference (AIC 2020), this was a short contract role.
 
@@ -38,7 +44,9 @@ tags: CV
 
 ### IT Technician -- December 2019 -- January 2020
 
-#### Brentside High School - London, England
+### Brentside High School - London, England
+<br />
+
 
 -   Short term contract working on the school\'s ServiceNow service desk that was accessible by over 1500 students. I reduced the number of tickets from over 100 (early December) to just under 20 (mid-January).
 
@@ -46,9 +54,10 @@ tags: CV
 
 -   The school had been given 120 adobe licenses with no knowledge on how to set them up. I was tasked with figuring out how to do this, liaising with Art/Graphics teacher, assigning the licenses, and handing over the process to the teachers through the creation of easy-to-understand documentation
 
-## Deployment Engineer -- June 2019 -- December 2019
+### Deployment Engineer -- June 2019 -- December 2019
 
 ### Bates Group (UCLH NHS Trust) - London, England
+<br />
 
 -   Part of a small 2-man team that migrated over 2200 legacy machines to Windows 10 over a s-month period contract that covered a dozen NHS sites.
 
@@ -61,6 +70,7 @@ tags: CV
 ## Desktop Support Trainee -- Jan 2019 -- June 2019
 
 ### QBE Insurance - London, England
+<br />
 
 -   Perform 1st line help desk support using ServiceNow in person and remotely.
 
@@ -71,7 +81,7 @@ tags: CV
 -   Assisted in a Europe wide migration of over 4000 machines from Windows 7 to Windows 10.
 
 
-# SKILLS / INTERESTS
+## SKILLS / INTERESTS
 
 -   Adobe Photoshop: Advanced knowledge and capability.
 
@@ -85,7 +95,7 @@ tags: CV
 
 -   Interests include jazz music, documentaries, yoga, and all things computers!
 
-# EDUCATION
+## EDUCATION
 
 > Portland Place School,
 > London, England
@@ -100,12 +110,14 @@ tags: CV
 > Bachelor's Degree, September 2014 -- June 2015
 >
 > **BA Philosophy**
+>
 
 ## VOLUNTEER EXPERIENCE
 
-##  International Volunteer (Youth Mentor) -- February 2020 -- June 2020
+###  International Volunteer (Youth Mentor) -- February 2020 -- June 2020
 
 ### NavigatorCentrum - Ostersund, Sweden
+<br />
 
 -   Worked with young adults aged 16-25 to help integrate them back into society.
 
@@ -114,9 +126,10 @@ tags: CV
 -   Facilitated workshops to engage young people with international volunteering.
 
 
-## CoderDojo Mentor -- January 2019 -- Present
+### CoderDojo Mentor -- January 2019 -- Present
 
 ### Brent Library - London, England
+<br />
 
 -   Setting up the 'dojo's computers, signing in children and their parents as they come in
 
@@ -124,9 +137,10 @@ tags: CV
 
 -   Guide and encourage children by facilitating their work on a project as opposed to conventionally teaching them.
 
-## Helper/Befriender -- March 2017 -- June 2019
+### Helper/Befriender -- March 2017 -- June 2019
 
 ### Marie Curie Hospice UK - London, England
+<br />
 
 -   Companion/befriending volunteer to people with terminal illness in their own home.
 
@@ -134,9 +148,10 @@ tags: CV
 
 -   Provide person-centered emotional support using skills such as active listening.
 
-## Event First Aid -- February 2017 -- October 2018
+### Event First Aid -- February 2017 -- October 2018
 
 ### British Red Cross - London, England
+<br />
 
 -   Certified in standard first aid to treat the most common ailments in children and adults.
 
