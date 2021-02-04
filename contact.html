@@ -3,7 +3,7 @@ layout: page
 title: Say Hello
 permalink: /contact/
 tags: contact
---- 
+---
 
 <div class="py2">
   {% if site.ajaxify_contact_form %}
@@ -20,7 +20,7 @@ tags: contact
 
       <input type="text" name="_gotcha" style="display:none" />
 
-      <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit | default: "Send" }}</button>
+      <button type='submit' class="button button-black button-big mobile-block">{{ site.text.contact.submit | default: "Send" }}</button>
     </form>
   {% else %}
     <form action="https://formspree.io/f/xbjpbkrw" method="POST" class="form-stacked">
@@ -37,7 +37,7 @@ tags: contact
       <input type="hidden" name="_subject" value="{{ site.text.contact.subject | default: "New submission!" }}" />
       <input type="text" name="_gotcha" style="display:none" />
 
-      <input type="submit" class="button button-blue button-big mobile-block" value="{{ site.text.contact.submit | default: "Send" }}">
+      <input type="submit" class="button button-black button-big mobile-block" value="{{ site.text.contact.submit | default: "Send" }}">
     </form>
   {% endif %}
 </div>
