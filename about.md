@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-This website is currently under construction, please check back soon 
+This website is under construction, please check back soon!
 
 <br />
 
