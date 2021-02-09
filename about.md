@@ -7,7 +7,7 @@ tags: about
 
 <br />
 
-![me](./images/profile.png)
+![me](pictures\profile.png)
 
 <br />
 
