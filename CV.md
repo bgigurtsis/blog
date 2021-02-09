@@ -64,7 +64,7 @@ tags: CV
 
 <br />
 
--  Part of a small 2-man team that migrated over 2200 legacy machines to Windows 10 over a s-month period contract that covered a dozen NHS sites.
+-  Part of a small 2 man team that migrated over 2200 legacy machines to Windows 10 over a 5 month period contract that covered a dozen NHS sites.
 
 -  Taught users who were used to using Windows 7 how to use Windows 10. I assisted them with any inquiries including using bespoke applications.
 
