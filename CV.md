@@ -58,7 +58,7 @@ tags: CV
 
 <br />
 
-### Deployment Engineer -- June 2019 -- December 2019
+### Deployment Engineer -- August 2019 -- December 2019
 
 ### Bates Group (UCLH NHS Trust) - London, England
 
@@ -74,7 +74,7 @@ tags: CV
 
 <br />
 
-### Desktop Support Trainee -- Jan 2019 -- June 2019
+### Desktop Support Trainee -- Jan 2019 -- August 2019
 
 ### QBE Insurance - London, England
 
