@@ -1,4 +1,5 @@
 _site
+README.md
 .sass-cache
 .DS_Store
 .jekyll-metadata
