@@ -5,11 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-<br />
-
 ![](https://www.bgigurtsis.com/pictures/profile.png)
-
-<br />
 
 I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles. I hope to transition away from IT support into infrastructure within the next year. To this end, I have been upskilling by learning CentOS / RedHat, to take the Redhat Systems Administrator Certification and become certified. I also learnt GitHub and AWS, which this website is built and hosted upon.
 
