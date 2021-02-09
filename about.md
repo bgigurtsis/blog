@@ -7,7 +7,7 @@ tags: about
 
 <br />
 
-![me](pictures\profile.png)
+![me](https://www.bgigurtsis.com/pictures/profile.png)
 
 <br />
 
