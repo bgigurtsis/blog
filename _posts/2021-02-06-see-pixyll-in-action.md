@@ -28,7 +28,7 @@ class Awesome < ActiveRecord::Base
 
   def initialize(email, name = nil)
     self.email = email
-    self.name = name
+    self.name = name 
     self.favorite_number = 12
     puts 'created awesomeness'
   end
