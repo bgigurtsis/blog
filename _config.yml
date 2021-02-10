@@ -7,11 +7,10 @@ baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
--  blog.md
  - CV.md
  - about.md
+ - blog.md
  - contact.html
-
 
 # Google services
 google_verification: UA-188502839-1
