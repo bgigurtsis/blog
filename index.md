@@ -6,6 +6,6 @@ summary:
 categories: welcome
 ---
 
-Hi, I'm Billy. This website is here to showcase not only myself but the various computing/IT projects I embark on.
+This website is here to showcase not only myself but the various computing/IT projects I embark on.
 
 Please feel free to browse the [blog](https://www.bgigurtsis.com/blog/), learn more about me on my [about](https://www.bgigurtsis.com/about/) page, take a look at my [CV](https://www.bgigurtsis.com/CV/) or shoot me a [message](https://www.bgigurtsis.com/contact/).
