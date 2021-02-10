@@ -7,3 +7,5 @@ categories: welcome
 ---
 
 Welcome page
+
+Please see the blog here https://www.bgigurtsis.com/blog/
