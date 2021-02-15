@@ -8,6 +8,7 @@ url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - index.html
+ - https://www.bgigurtsis.com/blog/
  - /blog/index.html
  - CV.md
  - about.md
