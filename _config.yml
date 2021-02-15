@@ -7,7 +7,9 @@ baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
- - blog.html
+ - [Blog](https://www.bgigurtsis.com/blog/)
+ - index.html
+ - ./blog/index.html
  - CV.md
  - about.md
  - contact.html
