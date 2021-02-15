@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles. I hope to transition away from IT support into infrastructure within the next year. To this end, I have been upskilling by learning CentOS / RedHat, to take the Redhat Systems Administrator Certification and become certified. I also learnt GitHub and AWS, which this website is built and hosted upon.
+I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles. I hope to transition away from IT support into infrastructure within the next year. To this end I have been upskilling by learning CentOS / RedHat to take the Redhat Systems Administrator Certification and become certified. I also learnt GitHub and AWS, which this website is built and hosted upon.
 
 I love watching documentary films. I love learning about everything from obscure social movements to what it’s like to live in the Taiga. Unfortunately, my ADHD makes it very hard for me to get through books. I’ve found documentaries to be a great way to absorb new information without straining my attention span. Please feel free to browse my [letterboxd](https://letterboxd.com/icy100/) profile for a list of my favourite films.
 
