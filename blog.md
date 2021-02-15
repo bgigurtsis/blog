@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: redirect
 title: Blog
 tags:
 ---
