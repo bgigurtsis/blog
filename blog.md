@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: empty
 title: Blog
 tags:
 ---
