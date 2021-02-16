@@ -1,6 +1,6 @@
 ---
 layout:     welcome
-title:      Welcome
+title:      Welcome.
 date:       2021-02-05 23:39:00
 summary:
 categories: welcome
