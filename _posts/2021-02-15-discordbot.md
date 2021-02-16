@@ -95,3 +95,5 @@ client.run(os.getenv('TOKEN'))
 {% endhighlight %}
 
 Finally, this code takes the OAuth2 token and passes it to the bot.
+
+Further information and documentation for discord.py can be found [here](https://discordpy.readthedocs.io/en/latest/index.html).
