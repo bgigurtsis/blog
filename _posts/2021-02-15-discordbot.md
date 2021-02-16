@@ -8,7 +8,9 @@ categories: python
 
 ####Please note that this post is currently under construction - thank you.
 
-I had the idea to make a simple discord bot that would react to my friends messages as a goof. A 'reaction' on discord looks like this:
+I had the idea to make a simple discord bot that would react to my friends messages as a goof.
+
+A 'reaction' on discord looks like this:
 
 ![](https://www.bgigurtsis.com/pictures/posts/discordbot/1.png)
 
