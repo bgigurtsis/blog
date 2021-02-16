@@ -1,10 +1,12 @@
 ---
 layout:     post
 title:      Making a discord bot
-date:       2021-02-15 23:39:00
+date:       2021-02-16 23:39:00
 summary:    I made a simple discord bot that reacts to my friends messages
 categories: python
 ---
+
+####Please note that this post is currently under construction - thank you.
 
 I had the idea to make a simple discord bot that would react to my friends messages as a goof. A 'reaction' on discord looks like this:
 
