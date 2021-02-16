@@ -88,7 +88,7 @@ elif message.author.id == 389104618099048468:
         await message.add_reaction(emoji)
 {% endhighlight %}
 
-This block first checks if the message recieved is from the bot. If so it returns and exits. Otherwise it checks for a specific user ID that I define. Then if it matchs the regex or if the message contains an attachment the bot reacts to that message.
+This block first checks if the message received is from the bot. If so it returns and exits. Otherwise it checks for a specific user ID that I define. Then if it matchs the regex or if the message contains an attachment the bot reacts to that message.
 
 {% highlight python %}
 client.run(os.getenv('TOKEN'))
