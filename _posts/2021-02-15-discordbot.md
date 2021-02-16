@@ -49,9 +49,9 @@ I'll take you through the code bit by bit, explaining what each part does.
 load_dotenv()
 {% endhighlight %}
 
-This calls load_dotenv, loading environment variables from a file called .env in the current directory. My .env file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
+This calls `load_dotenv`, loading environment variables from a file called `.env` in the current directory. My `.env` file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
 
-It was important to put this file .gitignore if publishing code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me Discord itself has a bot that crawls GitHub and alerts you if you upload your token there by accident - pretty cool!
+It was important to put this file `.gitignore` if publishing code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me Discord itself has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks Discord!
 
 {% highlight python %}
 client = discord.Client()
@@ -59,7 +59,7 @@ client = discord.Client()
 @client.event
 {% endhighlight %}
 
-Create an instance of 'client', our connection to Discord. The second line tells python that an even needs to happen in order to execute.
+Create an instance of `client`, our connection to Discord. The second line tells python that an even needs to happen in order to execute.
 
 {% highlight python %}
 async def on_message(message):
@@ -71,14 +71,14 @@ Runs the following code when a message is received
 emoji = '<:timeout2:806320653451001856>'
 {% endhighlight %}
 
-I want the bot to react to messages with a specific emoji. Here I define which emoji and ID of it.
+I want the bot to react to messages with a specific emoji. Here I define which emoji and ID of that emoji.
 
 {% highlight python %}
 regex = re.compile('((http|https)\:\/\/)?[a-zA-Z0-9\.\/\?\:@\-_=#]+\.([a-zA-Z]){2,6}([a-zA-Z0-9\.\&\/\?\:@\-_=#])*')
 match = regex.search(message.content)#
 {% endhighlight %}
 
-These two lines of code are how the bot detects links in a specific message. I define some regex will only match to a link and pass this as a function, 'match'.
+These two lines of code are how the bot detects links in a specific message. I define some regex will only match to a link and pass this as a function `match`.
 
 {% highlight python %}
 if message.author.bot:
@@ -88,7 +88,7 @@ elif message.author.id == 389104618099048468:
         await message.add_reaction(emoji)
 {% endhighlight %}
 
-These block first checks if the message recieved is from the bot. If so it returns and exits. Otherwise it checks for a specific user ID that I define. Then if it matchs the regex ('match') or if the message contains an attachment the bot reacts to that message.
+This block first checks if the message recieved is from the bot. If so it returns and exits. Otherwise it checks for a specific user ID that I define. Then if it matchs the regex or if the message contains an attachment the bot reacts to that message.
 
 {% highlight python %}
 client.run(os.getenv('TOKEN'))
