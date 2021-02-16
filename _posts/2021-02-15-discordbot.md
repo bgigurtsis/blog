@@ -51,7 +51,7 @@ load_dotenv()
 
 This calls `load_dotenv`, loading environment variables from a file called `.env` in the current directory. My `.env` file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
 
-It was important to put this file `.gitignore` if publishing code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me Discord itself has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks Discord!
+It's important to put `.env` inside `.gitignore` if publishing the code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me Discord has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks Discord!
 
 {% highlight python %}
 client = discord.Client()
