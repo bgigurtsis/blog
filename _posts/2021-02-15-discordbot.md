@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Making a discord bot
+title:      Making a Discord bot
 date:       2021-02-15 23:39:00
 summary:    Python discord bot that reacts to my a specific user's messages
 categories: coding
@@ -51,7 +51,7 @@ load_dotenv()
 
 This calls `load_dotenv`, loading environment variables from a file called `.env` in the current directory. My `.env` file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
 
-It's important to put `.env` inside `.gitignore` if publishing the code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me Discord has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks Discord!
+It's important to put `.env` inside `.gitignore` if publishing the code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me, Discord has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks, Discord!
 
 {% highlight python %}
 client = discord.Client()
@@ -59,7 +59,7 @@ client = discord.Client()
 @client.event
 {% endhighlight %}
 
-Create an instance of `client`, our connection to Discord. The second line tells python that an event needs to happen in order to execute.
+Create an instance of `client`, our connection to Discord. The second line tells python that an event needs to happen to execute.
 
 {% highlight python %}
 async def on_message(message):
@@ -88,9 +88,9 @@ elif message.author.id == 389104618099048468:
         await message.add_reaction(emoji)
 {% endhighlight %}
 
-This block first checks if the message received is from the bot. If so it returns and waits for another message.
+This block first checks if the message received is from any bot. If so it returns and waits for another message.
 
-Otherwise it checks for a specific user ID that I define. Then if it that message either match's the regex (is a link) or if the message contains an attachment the bot reacts to that message.
+Otherwise, it checks for a specific user ID that I define. Then if it that message either match's the regex (is a link) or if the message contains an attachment the bot reacts to that message.
 
 {% highlight python %}
 client.run(os.getenv('TOKEN'))

@@ -25,7 +25,7 @@ tags: CV
 
 -  Fixing many incidents upon the first point of contact either by remotely connecting to their machine or if they were in Hampton Court Palace simply walking over to their office.
 
--  Ensuring that a high level of support to VIP's continued even after lockdown had started and we did not have access to our usual  support tools.
+-  Ensuring that a high level of support to VIP's continued even after lockdown had started and we did not have access to our usual support tools.
 
 <br />
 
@@ -37,7 +37,7 @@ tags: CV
 
 -  Provided IT support over Microsoft Teams to attendees of the Africa Investors Conference (AIC 2020), this was a short contract role.
 
--  Troubleshooted sound, video and hardware issues prioritizing their access to conference talks and meetings.
+- Troubleshot sound, video and hardware issues prioritizing their access to conference talks and meetings.
 
 -  Ensured that customer service always came first as most clients were executive or c-level.
 
@@ -49,7 +49,7 @@ tags: CV
 
 <br />
 
--  Short term contract working on the school\'s ServiceNow service desk that was accessible by over 1500 students. I reduced the number  of tickets from over 100 (early December) to just under 20 (mid-January).
+-  Short term contract working on the school\'s ServiceNow service desk that was accessible by over 1500 students. I reduced the number of tickets from over 100 (early December) to just under 20 (mid-January).
 
 -  Managing the schools Active Directory and assisting with their VMWare / Windows servers (2016). Included resetting passwords, creating accounts for new starters, and diagnosing login/server issues.
 
@@ -63,7 +63,7 @@ tags: CV
 
 <br />
 
--  Part of a small 2 man team that migrated over 2200 legacy machines to Windows 10 over a 5 month period contract that covered a dozen NHS sites.
+-  Part of a small 2 man team that migrated over 2200 legacy machines to Windows 10 over 5 months contract that covered a dozen NHS sites.
 
 -  Taught users who were used to using Windows 7 how to use Windows 10. I assisted them with any inquiries including using bespoke applications.
 
