@@ -5,9 +5,6 @@ date:       2021-02-15 23:39:00
 summary:    Python discord bot that reacts to my a specific user's messages
 categories: python
 ---
-
-### Please note that this post is currently under construction.
-
 I had the idea to make a simple discord bot that would react to a user's messages. The bot uses discord.py and is designed to react if, and only if, a specific user sends either a link or uploads an image.
 
 A 'reaction' on discord looks like this, nothing too intrusive:
