@@ -6,7 +6,7 @@ summary:    Simple python discord bot that reacts to my friends messages
 categories: python
 ---
 
-####Please note that this post is currently under construction - thank you.
+###Please note that this post is currently under construction - thank you.
 
 I had the idea to make a simple discord bot that would react to my friends messages as a goof.
 
