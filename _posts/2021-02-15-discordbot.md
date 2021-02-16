@@ -59,13 +59,13 @@ client = discord.Client()
 @client.event
 {% endhighlight %}
 
-Create an instance of `client`, our connection to Discord. The second line tells python that an even needs to happen in order to execute.
+Create an instance of `client`, our connection to Discord. The second line tells python that an event needs to happen in order to execute.
 
 {% highlight python %}
 async def on_message(message):
 {% endhighlight %}
 
-Runs the following code when a message is received
+Runs the following code when a message is received.
 
 {% highlight python %}
 emoji = '<:timeout2:806320653451001856>'
@@ -88,7 +88,9 @@ elif message.author.id == 389104618099048468:
         await message.add_reaction(emoji)
 {% endhighlight %}
 
-This block first checks if the message received is from the bot. If so it returns and exits. Otherwise it checks for a specific user ID that I define. Then if it matchs the regex or if the message contains an attachment the bot reacts to that message.
+This block first checks if the message received is from the bot. If so it returns and waits for another message.
+
+Otherwise it checks for a specific user ID that I define. Then if it that message either match's the regex (is a link) or if the message contains an attachment the bot reacts to that message.
 
 {% highlight python %}
 client.run(os.getenv('TOKEN'))
