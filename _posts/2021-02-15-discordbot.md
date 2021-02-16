@@ -2,7 +2,7 @@
 layout:     post
 title:      Making a discord bot
 date:       2021-02-15 23:39:00
-summary:    I made a simple discord bot that reacts to my friends messages
+summary:    Simple python discord bot that reacts to my friends messages
 categories: python
 ---
 
