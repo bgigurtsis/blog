@@ -94,9 +94,9 @@ $form-field-padding-x: .5rem;
 // Code
 $pre-border-radius: 0;
 $pre-background-color: #fafafa;
-$hljs-comment: $mid-gray;
+$hljs-comment: #777;
 $hljs-keyword: $dark-blue;
-$hljs-name: $dark-gray;
+$hljs-name: #333;
 $hljs-number: $dark-green;
 $hljs-string: $red;
 $hljs-title: $red;
@@ -106,11 +106,11 @@ $hljs-attribute: $dark-green;
 $hljs-regexp: $dark-green;
 $hljs-symbol: $purple;
 $hljs-built-in: $dark-blue;
-$hljs-preprocessor: $mid-gray;
+$hljs-preprocessor: #777;
 $hljs-deletion: $light-pink;
 $hljs-addition: $light-green;
 $hljs-change: $dark-blue;
-$hljs-chunk: $light-gray;
+$hljs-chunk: #ccc;
 
 // Header
 $header-border-top: thin solid #f3f3f3;

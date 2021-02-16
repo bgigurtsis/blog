@@ -11,7 +11,7 @@ A 'reaction' on discord looks like this, nothing too intrusive:
 
 ![](https://www.bgigurtsis.com/pictures/posts/discordbot/1.png)
 
-Here's my full code:
+Here's the full code for my bot:
 
 {% highlight python %}
 # bot.py
