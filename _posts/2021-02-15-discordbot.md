@@ -49,7 +49,7 @@ I'll take you through the code bit by bit, explaining what each part does.
 load_dotenv()
 {% endhighlight %}
 
-This calls `load_dotenv`, loading environment variables from a file called `.env` in the current directory. My `.env` file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
+This calls <code>load_dotenv</code>, loading environment variables from a file called `.env` in the current directory. My `.env` file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
 
 It's important to put `.env` inside `.gitignore` if publishing the code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me, Discord has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks, Discord!
 
