@@ -2,7 +2,7 @@
 layout:     post
 title:      Making a Discord bot
 date:       2021-02-15 23:39:00
-summary:    Python discord bot that reacts to my a specific user's messages
+summary:    Python discord bot that reacts to a specific user's messages
 categories: programming
 ---
 I had the idea to make a simple discord bot that would react to a user's messages. The bot uses [discord.py](https://discordpy.readthedocs.io/en/latest/index.html), a Discord API wrapper built in python. It is designed to react if, and only if, a specific user sends either a link or uploads an image.
