@@ -13,7 +13,7 @@ A 'reaction' on discord looks like this, nothing too intrusive:
 
 Here's the full code for my bot:
 
-{% highlight python %}
+```python
 # bot.py
 import os
 import re
@@ -41,60 +41,60 @@ async def on_message(message):
             await message.add_reaction(emoji)
 
 client.run(os.getenv('TOKEN'))
-{% endhighlight %}
+```
 
 I'll take you through the code bit by bit, explaining what each part does.
 
-{% highlight python %}
+```python
 load_dotenv()
-{% endhighlight %}
+```
 
 This calls <code>load_dotenv</code>, loading environment variables from a file called `.env` in the current directory. My `.env` file holds the OAuth2 token that allows the bot to connect with my Discord developer account.
 
 It's important to put `.env` inside `.gitignore` if publishing the code to GitHub as anyone with this token could place their bot in my Discord server with admin privileges. I did this accidentally. Luckily for me, Discord has a bot that crawls GitHub, cancels your token and alerts you if you upload your token there by accident. Thanks, Discord!
 
-{% highlight python %}
+```python
 client = discord.Client()
 
 @client.event
-{% endhighlight %}
+```
 
 Create an instance of `client`, our connection to Discord. The second line tells python that an event needs to happen to execute.
 
-{% highlight python %}
+```python
 async def on_message(message):
-{% endhighlight %}
+```
 
 Runs the following code when a message is received.
 
-{% highlight python %}
+```python
 emoji = '<:timeout2:806320653451001856>'
-{% endhighlight %}
+```
 
 I want the bot to react to messages with a specific emoji. Here I define which emoji and ID of that emoji.
 
-{% highlight python %}
+```python
 regex = re.compile('((http|https)\:\/\/)?[a-zA-Z0-9\.\/\?\:@\-_=#]+\.([a-zA-Z]){2,6}([a-zA-Z0-9\.\&\/\?\:@\-_=#])*')
 match = regex.search(message.content)#
-{% endhighlight %}
+```
 
 These two lines of code are how the bot detects links in a specific message. I define some regex will only match to a link and pass this as a function `match`.
 
-{% highlight python %}
+```python
 if message.author.bot:
     return
 elif message.author.id == 389104618099048468:
     if match or message.attachments:
         await message.add_reaction(emoji)
-{% endhighlight %}
+```
 
 This block first checks if the message received is from any bot. If so it returns and waits for another message.
 
 Otherwise, it checks for a specific user ID that I define. Then if it that message either match's the regex (is a link) or if the message contains an attachment the bot reacts to that message.
 
-{% highlight python %}
+```python
 client.run(os.getenv('TOKEN'))
-{% endhighlight %}
+```
 
 Finally, this code takes the OAuth2 token and passes it to the bot.
 
