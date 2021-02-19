@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Pixyll in Action
-date:       2014-06-10 12:31:19
+title:      Test post
+date:       2021-02-17 12:31:19
 summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
 categories: jekyll pixyll
 ---
@@ -28,7 +28,7 @@ class Awesome < ActiveRecord::Base
 
   def initialize(email, name = nil)
     self.email = email
-    self.name = name 
+    self.name = name
     self.favorite_number = 12
     puts 'created awesomeness'
   end
