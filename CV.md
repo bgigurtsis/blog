@@ -88,3 +88,59 @@ tags: CV
 -  Assisted in a Europe wide migration of over 4000 machines from Windows 7 to Windows 10.
 
 <br />
+
+## VOLUNTEER EXPERIENCE
+
+<br />
+
+### International Volunteer (Youth Mentor) –- February 2020 –- June 2020
+
+### NavigatorCentrum - Ostersund, Sweden
+
+- Worked with young adults aged 16-25 to help integrate them back into society.
+
+- This could be anything from going to the gym with them or simply listening to their worries.
+
+- Facilitated workshops to engage young people with international volunteering.
+
+<br />
+
+### CoderDojo Mentor –- January 2019 –- Present
+
+### Brent Library - London, England
+
+<br />
+
+- Setting up the dojo's computers, signing in children and their parents as they come in
+
+- Performing fun warm up activities or icebreakers with the children
+
+- Guide and encourage children by facilitating their work on a project as opposed to conventionally teaching them.
+
+### Helper/Befriender –- March 2017 –- June 2019
+
+### Marie Curie Hospice UK - London, England
+
+<br />
+
+- Companion/befriending volunteer to people with terminal illness in their own home.
+
+- Perform simple tasks around the house like making them tea or helping them shop.
+
+- Provide person-centered emotional support using skills such as active listening.
+
+<br />
+
+### Event First Aid –- February 2017 –- October 2018
+
+### British Red Cross - London, England
+
+<br />
+
+- Certified in standard first aid to treat the most common ailments in children and adults.
+
+- Provide first aid to the public at events in and around London, triaging to treat the most ill patients first.
+
+- Assist with the build and take down of temporary first aid camps.
+
+- Attend monthly training sessions to keep up to date with clinical developments.
