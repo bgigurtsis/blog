@@ -16,3 +16,4 @@ Another interest of mine is therapy/counselling. I’ve personally benefited so 
 I hope you enjoy my website and please get in [touch](https://www.bgigurtsis.com/contact/) if you have any questions - or just want to chat!
 
 ![](https://www.bgigurtsis.com/pictures/profile.png)
+<sub><i> Kat and I</sub>
