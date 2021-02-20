@@ -117,6 +117,8 @@ tags: CV
 
 - Guide and encourage children by facilitating their work on a project as opposed to conventionally teaching them.
 
+<br />
+
 ### Helper/Befriender –- March 2017 –- June 2019
 
 ### Marie Curie Hospice UK - London, England
