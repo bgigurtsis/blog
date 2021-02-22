@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Making a Discord bot
+title:      Making a bot with Python
 date:       2021-02-15 23:39:00
-summary:    Python discord bot that reacts to a specific user's messages
+summary:    Discord python bot that responds to a certain user's messages.
 categories: programming
 comments: true
 ---
