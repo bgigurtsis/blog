@@ -4,6 +4,7 @@ title:      Using Atom as an IDE for Clojure
 date:       2021-02-21 23:39:00
 summary:    The settings and files I use to program Clojure with Atom
 categories: programming
+comments: true
 ---
 
 My foray into functional programming began recently with Clojure. One of the first things you do when learning a new language is setup your environment to program effectively and efficiently. Emacs is the recommended IDE for Clojure as Emacs was built using Lisp and is therefore quite easy to setup. I'm not a fan of having to use keybinds to do basic functions like delete a line of code, which Emacs requires, and I love my regular IDE Atom too much.
