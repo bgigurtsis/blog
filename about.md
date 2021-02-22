@@ -11,8 +11,6 @@ During non-COVID times I love to volunteer. I have the time and the skills so it
 
 I'm also an avid documentary watcher. I love learning about everything from obscure social movements to what it’s like to live in the Taiga. Unfortunately my ADHD makes it very hard for me to get through books. I’ve found documentaries to be a great way to absorb new information without straining my attention span. Please feel free to browse my [letterboxd](https://letterboxd.com/icy100/) profile for a list of my favourites.
 
-Another interest of mine is therapy/counselling. I’ve personally benefited so much from participating in therapy as a client. The way of thinking through problems that a therapist engages in is something that attracts me and my goal, with a lot more life experience, is to become a practising therapist and help people like I was helped.
-
 I hope you enjoy my website and please get in [touch](https://www.bgigurtsis.com/contact/) if you have any questions - or just want to chat!
 
 ![Kat and I](https://www.bgigurtsis.com/pictures/profile.png)
