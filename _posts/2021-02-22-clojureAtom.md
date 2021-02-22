@@ -50,7 +50,7 @@ lein new app <APP_NAME>
 cd <APP_NAME>
 ```
 
-> You do not exactly _need_ to have a previous clj project or even a .clj file, but this step makes your life easier by handling the app's files
+You do not exactly _need_ to have a previous clj project or even a .clj file, but this step makes your life easier by handling the app's files
 
 3.  Inside the app directory, start a REPL enviroment with an specific port to connect to it later
 
