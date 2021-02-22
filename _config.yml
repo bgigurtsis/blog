@@ -1,6 +1,6 @@
 # Site settings
 title:       Billy Gigurtsis
-email:       
+email:
 author:      Billy Gigurtsis
 description: "A blog about Billy's adventure in computer science and information technology."
 baseurl:     ""
@@ -40,7 +40,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: www-bgigurtsis-com
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
