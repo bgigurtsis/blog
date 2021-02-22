@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Using Atom as an IDE for Clojure
+title:      Atom as an IDE for Clojure
 date:       2021-02-21 23:39:00
-summary:    The settings and files I use to program Clojure with Atom
+summary:    Configuring Atom to be an IDE for Clojure
 categories: programming
 comments: true
 ---
