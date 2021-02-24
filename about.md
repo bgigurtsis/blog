@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles. I hope to transition away from IT support into infrastructure or infosec within the next 1-2 years. To this end, I have been upskilling by learning CentOS / RedHat to become certified as a RedHat Systems Administrator.
+I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles. I hope to transition away from IT support into infrastructure within the next 1-2 years. To this end, I have been upskilling by learning CentOS / RedHat to become certified as a RedHat Systems Administrator.
 
 I built this website partly as a learning exercise too. It's Jekyll based, hosted on AWS/GitHub with CI/CD integration. I'm also an avid programmer, using Python and C/C++ right now for an Arduino project. I've just begun learning Clojure to satiate my interest in functional programming. Most of these projects can be found on my [GitHub](https://github.com/bgigurtsis).
 
