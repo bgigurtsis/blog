@@ -4,5 +4,6 @@ source 'https://rubygems.org'
 # maintaining a local Jekyll environment in sync with GitHub Pages
 # https://github.com/github/pages-gem
 gem 'jekyll'
+gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
 gem 'jekyll-paginate-v2', github: 'sverrirs/jekyll-paginate-v2'
