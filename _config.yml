@@ -117,9 +117,21 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink: /blog/:title
-paginate_path: "/blog/page:num"
-paginate:     4
+#permalink: /blog/:title
+#paginate_path: "/blog/page:num"
+#paginate:     4
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+permalink: /:year/:month/:title.html
+
 sass:
   style: compressed
 plugins:
