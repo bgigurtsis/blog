@@ -134,14 +134,10 @@ permalink: /:year/:month/:title.html
 sass:
   style: compressed
 plugins:
-#  - jekyll-paginate
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
 
 # https://github.com/jekyll/jekyll/issues/2938
-
-gems:
-  - jekyll-paginate-v2
 
 exclude:
   - Gemfile
