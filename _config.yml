@@ -121,6 +121,8 @@ permalink: /blog/:title
 paginate_path: "/blog/page:num"
 paginate:     4
 
+
+#pagination v2 setup
 #pagination:
 #  enabled: true
 #  per_page: 4
