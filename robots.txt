@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /CVs/Billy%20Gigurtsis%20CV.pdf
+Disallow: /CVs/Billy%20Gigurtsis%20CV.docx
+Allow: /
