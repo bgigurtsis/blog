@@ -9,7 +9,6 @@ date_format: "%b %-d, %Y"
 header_pages:
  - blog.md
  - about.md
- - poetry.md
  - CV.md
  - contact.html
 
