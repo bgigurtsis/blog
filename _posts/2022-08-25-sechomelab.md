@@ -41,12 +41,14 @@ Splunk is the SIEM that I do most of my analysis in. Right now it's only setup t
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/splunk.PNG)
 
-Here shows what events exactly are being captured from my Windows Server:
+Here shows what types of events are being captured from my Windows Server:
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/wineventlog.PNG)
 
 And finally the index that I setup to capture the events themselves, highlighted at the bottom:
 
-![](https://www.bgigurtsis.com/pictures/posts/homelab/indexes.PNG)
+![](https://www.bgigurtsis.com/pictures/posts/homelab/indexes.PNG)  
+
+
 
 That's all I have for now! This post is a WIP, and I will be updating it with more detail as time allows.
