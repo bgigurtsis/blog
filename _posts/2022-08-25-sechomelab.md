@@ -7,7 +7,7 @@ categories: security
 comments: true
 ---
 
-This post will be a very broad overview of my security analysis homelab, including lessons learned and general setup.
+This post will be a very broad overview of my security analysis homelab, including lessons learned and general setup. Please note it is a work in progress and I will update it with more detail as time allows.
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/NetworkMap.png)
 
