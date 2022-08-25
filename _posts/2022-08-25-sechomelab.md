@@ -32,7 +32,7 @@ Below is a screenshot showing my pfSense setup. This includes the IP address map
 ##### Windows Server 2019 (Active Directory / Domain Controller)
 
 Below shows the very basic setup of my victim network, specifically my AD/DC and one of the Windows 10 machines that I have joined to my domain `billy.local`:
-C:\Users\Billy\Documents\GitHub\bgigurtsis\pictures\posts\homelab\ADSetup.PNG
+
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/ADSetup.jpg)
 
 ##### Splunk
