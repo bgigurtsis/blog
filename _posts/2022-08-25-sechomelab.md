@@ -11,7 +11,7 @@ This post will be a very broad overview of my security analysis homelab, includi
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/NetworkMap.png)
 
-For this setup I used VMWare Workstation as my hypervisor. I chose this over VirtualBox mostly due to my familiarity with VMWare Workstation.
+For this setup I used VMware Workstation as my hypervisor. I chose this over VirtualBox mostly due to my familiarity with VMware Workstation.
 
 ### Virtual machine networking
 
