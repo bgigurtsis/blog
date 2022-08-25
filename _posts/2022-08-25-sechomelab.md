@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Building a security analysis homelab
+title:      Security analysis homelab
 date:       2022-08-24 23:40:00
 summary:    Setting up my first security analysis homelab (Splunk/pfSense)
 categories: security
