@@ -15,6 +15,6 @@ For this setup I used VMWare Workstation as my hypervisor. I chose this over Vir
 
 ### Virtual machine networking
 
-Probably the most important part of the networking setup, and when virtual machine networking 'clicked' for me, was connecting my pfSense VM to my other VM's by adding in their VMnets/virtual switches (VMnet2/3/4/5/6) (see below).
+Probably the most important part of the networking setup, and when virtual machine networking 'clicked' for me, was connecting my pfSense VM to my other VM's by adding in their VMnets/virtual switches (VMnet2/3/4/5/6):
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/pfadapters.png
