@@ -23,6 +23,6 @@ I also learned about what exactly a [SPAN port](https://www.garlandtechnology.co
 
 ### Virtual machine configuration
 
-Above is a screenshot showing my pfSense setup. This includes the IP address mapping to their respective network adapter (em1/2/3/4/5). You can further see exactly how it all maps out by seeing where each network adapter (em1/2/etc...) lies in the network map at the top of this post.
+Below is a screenshot showing my pfSense setup. This includes the IP address mapping to their respective network adapter (em1/2/3/4/5). You can further see exactly how it all maps out by seeing where each network adapter (em1/2/etc...) lies in the network map at the top of this post.
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/pfsensesetup.PNG)
