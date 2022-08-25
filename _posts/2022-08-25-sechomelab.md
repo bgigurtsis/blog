@@ -21,7 +21,7 @@ Probably the most important part of the networking setup, and when virtual machi
 
 I also learned about what exactly a [SPAN port](https://www.garlandtechnology.com/tap-vs-span) is, and how I could use that to mirror all the traffic from my victim/vulnerable network into pfSense (VMnet 3) and my SecurityOnion instance (VMnet 5). The logs from my Windows 2019 server (AD/DC server) were sent to Splunk via a universal forwarder.
 
-### Virtual machine configurations
+### Virtual machine configs
 
 Below is a screenshot showing my pfSense setup. This includes the IP address mapping to their respective network adapter (em1/2/3/4/5). You can further see exactly how it all maps out by seeing where each network adapter (em1/2/etc...) lies in the network map at the top of this post.
 
