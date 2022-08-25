@@ -31,4 +31,22 @@ Below is a screenshot showing my pfSense setup. This includes the IP address map
 
 ##### Windows Server 2019 (Active Directory / Domain Controller)
 
-Below shows the very basic setup of my victim network, specifically my AD/DC and one of the Windows 10 machines that I have joined to my domain `billy.local`.
+Below shows the very basic setup of my victim network, specifically my AD/DC and one of the Windows 10 machines that I have joined to my domain `billy.local`:
+
+![](https://www.bgigurtsis.com/pictures/posts/homelab/ADSetup.PNG)
+
+##### Splunk
+
+Splunk is the SIEM that I do most of my analysis in. Right now it's only setup to receive logs from the universal forwarder I setup on my Windows Server. Below is a basic search, showing all events from event viewer that indicate a failed login attempt:
+
+![](https://www.bgigurtsis.com/pictures/posts/homelab/splunk.PNG)
+
+Here shows what events exactly are being captured from my Windows Server:
+
+![](https://www.bgigurtsis.com/pictures/posts/homelab/wineventlog.PNG)
+
+And finally the index that I setup to capture the events themselves, highlighted at the bottom:
+
+![](https://www.bgigurtsis.com/pictures/posts/homelab/indexes.PNG)
+
+That's all I have for now! This post is a WIP, and I will be updating it with more detail as time allows.
