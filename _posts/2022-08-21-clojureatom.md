@@ -7,6 +7,8 @@ categories: programming
 comments: true
 ---
 
+##### Edit: Since the writing of this post, GitHub has since discontinued development/support for Atom. 
+
 My foray into functional programming began recently with Clojure. Emacs is the recommended IDE for Clojure as Emacs was built using Lisp and is relatively easy to setup. I'm not a fan of having to use keybinds to do perform basic function, which Emacs requires, and I love my regular IDE Atom too much.
 
 Setting up Atom to program with Clojure effectively was quite the struggle, requiring configs from several sources. This was partly due to the previously most popular Clojure REPL environment for Atom 'Proto-REPL' no longer being maintained.
