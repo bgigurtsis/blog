@@ -119,7 +119,7 @@ redcarpet:
 
 permalink: /blog/:title
 paginate_path: "/blog/page:num"
-paginate:     4
+paginate:     5
 
 
 #pagination v2 setup
