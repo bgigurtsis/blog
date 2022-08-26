@@ -39,4 +39,3 @@ jobs:
          name: scan_results
          path: /tmp/scan_output.json
          retention-days: 2
-‍
