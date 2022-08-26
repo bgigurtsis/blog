@@ -6,14 +6,13 @@ summary:    Configuring Atom to be an IDE for Clojure
 categories: programming
 comments: true
 ---
-
 ##### Please note: Since the writing of this post, GitHub has since discontinued development/support for Atom :(
 
-My foray into functional programming began recently with Clojure. Emacs is the recommended IDE for Clojure as Emacs was built using Lisp and is relatively easy to setup. I'm not a fan of having to use keybinds to do perform basic function, which Emacs requires, and I love my regular IDE Atom too much.
+My foray into functional programming began recently with Clojure. Emacs is the recommended IDE for Clojure as Emacs was built using Lisp and is relatively easy to set up. I'm not a fan of having to use keybinds to perform basic functions, which Emacs requires, and I love my regular IDE Atom too much.
 
 Setting up Atom to program with Clojure effectively was quite the struggle, requiring configs from several sources. This was partly due to the previously most popular Clojure REPL environment for Atom 'Proto-REPL' no longer being maintained.
 
-I'll go through the steps required to program Clojure in Atom effectively below, fully tested and working at time of writing.
+I'll go through the steps required to program Clojure in Atom effectively below, fully tested and working at the time of writing.
 
 ### Requirements
 
@@ -56,7 +55,7 @@ cd <APP_NAME>
 
 You do not exactly _need_ to have a previous clj project or even a .clj file, but this step makes your life easier by handling the app's files
 
-3.  Inside the app directory, start a REPL environment with an specific port to connect to it later. Note that for my environment only the second simpler command works for me to start REPL.
+3.  Inside the app directory, start a REPL environment with a specific port to connect to it later. Note that for my environment only the second simpler command works for me to start REPL.
 
 ```bash
 # Recomended, pure Socket REPL
