@@ -33,7 +33,7 @@ Below is a screenshot showing my pfSense setup. This includes the IP address map
 
 Below shows the very basic setup of my victim network, specifically my AD/DC and one of the Windows 10 machines that I have joined to my domain `billy.local`:
 
-![](https://www.bgigurtsis.com/pictures/posts/homelab/adsetup.png)
+![](https://www.bgigurtsis.com/pictures/posts/homelab/adsetup.PNG)
 
 ##### Splunk
 
