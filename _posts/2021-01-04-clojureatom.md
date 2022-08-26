@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      Atom as an IDE for Clojure
-date:       2022-08-21 23:39:00
+date:       2021-01-04 23:39:00
 summary:    Configuring Atom to be an IDE for Clojure
 categories: programming
 comments: true
 ---
 
-##### Please note: Since the writing of this post, GitHub has since discontinued development/support for Atom :( 
+##### Please note: Since the writing of this post, GitHub has since discontinued development/support for Atom :(
 
 My foray into functional programming began recently with Clojure. Emacs is the recommended IDE for Clojure as Emacs was built using Lisp and is relatively easy to setup. I'm not a fan of having to use keybinds to do perform basic function, which Emacs requires, and I love my regular IDE Atom too much.
 
