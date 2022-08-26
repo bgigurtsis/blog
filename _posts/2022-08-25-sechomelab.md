@@ -15,17 +15,17 @@ For this setup I used VMware Workstation as my hypervisor. I chose this over Vir
 
 ### Virtual machine networking
 
-Probably the most important part of the networking setup, and when virtual machine networking 'clicked' for me, was connecting my pfSense VM to my other VM's by adding in their VMnets/virtual switches (VMnet2/3/4/5/6):
+Probably the most important part of the networking setup, and when virtual machine networking 'clicked' for me, was connecting my pfSense VM to my other VM's by adding in their VMnets/virtual switches (`VMnet2/3/4/5/6`):
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/PfAdapters.jpg)
 
-I also learned about what exactly a [SPAN port](https://www.garlandtechnology.com/tap-vs-span) is, and how I could use that to mirror all the traffic from my victim/vulnerable network into pfSense (VMnet 3) and my SecurityOnion instance (VMnet 5). The logs from my Windows 2019 server (AD/DC server) were sent to Splunk via a universal forwarder.
+I also learned about what exactly a [SPAN port](https://www.garlandtechnology.com/tap-vs-span) is, and how I could use that to mirror all the traffic from my victim/vulnerable network into pfSense (`VMnet 3`) and my SecurityOnion instance (`VMnet 5`). The logs from my Windows 2019 server (AD/DC server) were sent to Splunk via a universal forwarder.
 
 ### Virtual machine configs
 
 ##### pfSense
 
-Below is a screenshot showing my pfSense setup. This includes the IP address mapping to their respective network adapter (em1/2/3/4/5). You can further see exactly how it all maps out by seeing where each network adapter (em1/2/etc...) lies in the network map at the top of this post (or [click here!](https://www.bgigurtsis.com/pictures/posts/homelab/netpf.png) for easy viewing):
+Below is a screenshot showing my pfSense setup. This includes the IP address mapping to their respective network adapter's (`em1/2/3/4/5`). You can further see exactly how it all maps out by seeing where each network adapter (`em1/2/etc...`) lies in the network map at the top of this post (or [click here!](https://www.bgigurtsis.com/pictures/posts/homelab/netpf.png) for easy viewing):
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/pfsensesetup.PNG)
 
@@ -48,7 +48,5 @@ Here shows what types of events are being captured from my Windows Server:
 And finally the index that I setup to capture the events themselves, highlighted at the bottom:
 
 ![](https://www.bgigurtsis.com/pictures/posts/homelab/indexes.PNG)  
-
-
 
 That's all I have for now! This post is a WIP, and I will be updating it with more detail as time allows.
