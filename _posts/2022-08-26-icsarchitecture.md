@@ -22,7 +22,9 @@ Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security
 
 One example of ICS are Programmable Logic Controllers (PLCs) - PLCs are ruggedized industrial computers that act as a middleman. They modulate outputs such as actuators depending on how they are programmed and what input they receive (generally input from sensors). These are used more in discrete manufacturing with more digital inputs and on/off type control such as automobile manufacturing.
 
-### ICS Security Architecture
+### ICS Security Architecture Principles
+
+![](https://www.bgigurtsis.com/pictures/posts/otarch/icsarch.jpg)
 
 ICS security architecture is all about creating a strong perimeter and then aggressively limiting what is allowed through that perimeter. **Least privilege** and **defence in depth** are the key phrases here.
 
@@ -36,8 +38,6 @@ Ideally, you would also have a separate ICS AD domain, dedicated switches and/or
 
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/opencircuit.jpg)
 
-A common point of failure is the remote access or jumpbox software. These remote access servers are often placed in the DMZ between an enterprise and control network and are used _in emergencies_ to complete maintenance or access the plant control when not otherwise possible. The attack on the Ukrainian power grid was performed via spearfished remote access credentials.
+A common point of failure is the remote access or jumpbox software. These remote access servers are often placed in the DMZ between an enterprise and control network and are used _in emergencies_ to complete maintenance or access the plant control when not otherwise possible. The successful attack on the Ukrainian power grid was performed via spearfished remote access credentials.
 
 Remote access capabilities should always be an open circuit when not in use, i.e. it's default state should be off. And when remote access is needed it should automatically turn off after n seconds in order to avoid the human error of leaving it on indefinitely and increasing your attack surface exponentially.
-
-### ICS Network Architecture
