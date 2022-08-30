@@ -14,7 +14,7 @@ The scope of this post is to define a basic understanding of what an ICS is, and
 
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/controlloop.PNG)
 
-Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security SME, [describes what ICS are](https://youtu.be/k7qNCU8_Wpc?list=PL8OWO1qWXF4qRHrSTpwFbuLUL-bOrGn4y&t=119): `All Industrial Control Systems are designed for one primary purpose - and that is to automate a physical process. They accomplish this through sensors to measure physical properties and actuators to manipulate those properties`.
+Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security SME, [describes what ICS are](https://youtu.be/k7qNCU8_Wpc?list=PL8OWO1qWXF4qRHrSTpwFbuLUL-bOrGn4y&t=119): _"All Industrial Control Systems are designed for one primary purpose - and that is to automate a physical process. They accomplish this through sensors to measure physical properties and actuators to manipulate those properties."_
 
 ##### Programmable Logic Controllers (PLCs)
 
