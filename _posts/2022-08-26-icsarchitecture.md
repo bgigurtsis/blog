@@ -16,6 +16,10 @@ The scope of this post is to define a basic understanding of what an ICS is, and
 
 Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security SME, [describes what ICS are](https://youtu.be/k7qNCU8_Wpc?list=PL8OWO1qWXF4qRHrSTpwFbuLUL-bOrGn4y&t=119): `All Industrial Control Systems are designed for one primary purpose - and that is to automate a physical process. They accomplish this through sensors to measure physical properties and actuators to manipulate those properties`.
 
+##### Programmable Logic Controllers (PLCs)
+
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/plc.png)
 
 One example Programmable Logic Controllers (PLCs) - PLCs are ruggedized industrial computers that can act as a middleman. They modulate outputs such as actuators depending on how they are programmed and what input they receive (generally input from sensors).
+
+### ICS Security Architecture
