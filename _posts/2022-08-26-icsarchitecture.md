@@ -23,3 +23,15 @@ Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security
 One example of ICS are Programmable Logic Controllers (PLCs) - PLCs are ruggedized industrial computers that act as a middleman. They modulate outputs such as actuators depending on how they are programmed and what input they receive (generally input from sensors). These are used more in discrete manufacturing with more digital inputs and on/off type control such as automobile manufacturing.
 
 ### ICS Security Architecture
+
+ICS security architecture is all about creating a strong perimeter and then aggressively limiting what is allowed through that perimeter. **Least privilege** and **defence in depth** are the key phrases here.
+
+**Least privilege** in terms of minimizing what and who is allowed to pass through the enterprise/internet DMZ's and firewalls, and into your control centre or physical processing network. **Defence in depth** in terms of having multiple layers of protection. Multiple firewalls and often multiple DMZ's that a connection, or an attacker, has to pass through in order to reach the most sensitive part of your network (the physical process or controller network). This can be anything from limiting what software runs on the DMZ to what ports the Domain Controller server has open.
+
+##### Remote Access
+
+![](https://www.bgigurtsis.com/pictures/posts/otarch/opencircuit.png)
+
+One common point of failure, is your remote access or jumpbox software. These remote access servers are often placed in the DMZ between an enterprise and control network and are used _in emergencies_ to complete maintenance or access the plant control when not otherwise possible. The attack on the Ukrainian power grid was performed via spearfished remote access credentials.
+
+Remote access capabilities should always be an open circuit when not in use, i.e. it's default state should be off. And when remote access is needed it should automatically turn off after n seconds in order to avoid the human error of leaving it on indefinitely and increasing your attack surface exponentially.
