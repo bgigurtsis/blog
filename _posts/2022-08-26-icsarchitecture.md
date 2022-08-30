@@ -11,15 +11,15 @@ Recently I've become very interested in Operational Technology (OT) security, mo
 The scope of this post is to define a basic understanding of what an ICS is, and what the security architecture for one of these systems might look like. Please note that I am still learning myself, so my apologies for any mistakes and feedback is more than welcome.
 
 ### What is an ICS?
-
+<br/><br/>
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/controlloop.PNG)
 
 Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security SME, [describes what ICS are](https://youtu.be/k7qNCU8_Wpc?list=PL8OWO1qWXF4qRHrSTpwFbuLUL-bOrGn4y&t=119): _"All Industrial Control Systems are designed for one primary purpose - and that is to automate a physical process. They accomplish this through sensors to measure physical properties and actuators to manipulate those properties."_
 
 ##### Programmable Logic Controllers (PLCs)
-
+<br/><br/>
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/plc.png)
-
+<br/><br/>
 One example of an ICS are Programmable Logic Controllers (PLCs) - PLCs are ruggedized industrial computers that act as a middleman. They modulate outputs such as actuators depending on how they are programmed and what input they receive (generally input from sensors).
 
 ### ICS Security Architecture
