@@ -22,11 +22,11 @@ Rather than butchering the definition, here's how Marty Edwards, ICS/OT Security
 
 One example of ICS are Programmable Logic Controllers (PLCs) - PLCs are ruggedized industrial computers that act as a middleman. They modulate outputs such as actuators depending on how they are programmed and what input they receive (generally input from sensors). These are used more in discrete manufacturing with more digital inputs and on/off type control such as automobile manufacturing.
 
-### ICS Security Architecture Principles
+### ICS Security Architecture Principles (The Purdue Model)
 
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/icsarch.jpg)
 
-ICS security architecture is all about creating a strong perimeter and then aggressively limiting what is allowed through that perimeter. **Least privilege** and **defence in depth** are the key phrases here.
+ICS security architecture is all about creating a strong perimeter and then aggressively limiting what is allowed through that perimeter. **Least privilege** and **defence in depth** are the key phrases here. The above image is an example of the Purdue Model. This is a widely accepted standard in ICS architecture that defines the different layers of seperation and how they should interact.
 
 **Least privilege** in terms of minimizing what and who is allowed to pass through the enterprise/internet DMZ's and firewalls, and into your control centre or physical processing network. **Defence in depth** in terms of having multiple layers of protection and network segmentation.
 
@@ -41,3 +41,5 @@ Ideally, you would also have a separate ICS AD domain, dedicated switches and/or
 A common point of failure is the remote access or jumpbox software. These remote access servers are often placed in the DMZ between an enterprise and control network and are used _in emergencies_ to complete maintenance or access the plant control when not otherwise possible. The successful attack on the Ukrainian power grid was performed via spearfished remote access credentials.
 
 Remote access capabilities should always be an open circuit when not in use, i.e. it's default state should be off. And when remote access is needed it should automatically turn off after n seconds in order to avoid the human error of leaving it on indefinitely and increasing your attack surface exponentially.
+
+I hope this post has given you a bit of an introduction to ICS security architecture. I am still learning more myself so will be publishing more posts about this topic and ICS security in general in the future.
