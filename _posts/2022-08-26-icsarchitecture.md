@@ -26,7 +26,7 @@ One example of ICS are Programmable Logic Controllers (PLCs) - PLCs are ruggediz
 
 ![](https://www.bgigurtsis.com/pictures/posts/otarch/icsarch.jpg)
 
-ICS security architecture is all about creating a strong perimeter and then aggressively limiting what is allowed through that perimeter. **Least privilege** and **defence in depth** are the key phrases here. The above image is an example of the Purdue Model. This is a widely accepted standard in ICS architecture that defines the different layers of seperation and how they should interact.
+The above image is an example of the Purdue Model. This is a widely accepted standard in ICS architecture that defines the different layers of seperation and how they should interact. ICS security architecture is all about creating a strong perimeter and then aggressively limiting what is allowed through that perimeter. **Least privilege** and **defence in depth** are the key phrases here.
 
 **Least privilege** in terms of minimizing what and who is allowed to pass through the enterprise/internet DMZ's and firewalls, and into your control centre or physical processing network. **Defence in depth** in terms of having multiple layers of protection and network segmentation.
 
