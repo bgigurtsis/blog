@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles. I hope to transition away from IT support into infrastructure within the next 1-2 years. To this end, I have been upskilling by learning CentOS / RedHat to become certified as a RedHat Systems Administrator.
+I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles and my current perm role at Ping Identity. I hope to transition away from IT support into Information security in the near future.
 
 I built this website [partly as a learning exercise](https://www.bgigurtsis.com/2021/02/amplify.html). It's Jekyll based, hosted on AWS/GitHub with CI/CD integration. I'm an avid programmer, currently using Python and C/C++ for an Arduino project. I've also begun learning Clojure to satiate my interest in functional programming. Most of these projects can be found on my [GitHub](https://github.com/bgigurtsis).
 
