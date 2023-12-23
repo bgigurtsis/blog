@@ -66,7 +66,7 @@ $space-1: .5rem !default;
 $space-2: 1rem !default;
 $space-3: 2rem !default;
 $space-4: 4rem !default;
-
+$space-5: .5rem !default;
 // Buttons
 $button-font-size: inherit !default;
 $button-font-weight: normal !default;
@@ -128,8 +128,7 @@ $nav-link-border-bottom: 2px solid #444;
 $nav-active-border-bottom: 1px solid $light-gray;
 
 // Footer
-$footer-border-top: thin solid #f3f3f3;
-$footer-padding: $space-2;
+$footer-padding: $space-5;
 $footer-color: #7a7a7a;
 $footer-bg-color: #fafafa;
 $footer-font-weight: 300;

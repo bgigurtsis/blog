@@ -3,7 +3,7 @@ layout:     post
 title:      Atom as an IDE for Clojure
 date:       2021-01-04 23:39:00
 summary:    Configuring Atom to be an IDE for Clojure
-categories: programming
+categories: engineering
 comments: true
 ---
 ##### Please note: Since the writing of this post, GitHub has since discontinued development/support for Atom :(
