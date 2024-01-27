@@ -5,6 +5,8 @@ title: Home
 
 <h1>Billy Gigurtsis is <span id="typewriter"></span></h1>
 
+Want to know more? Too bad, bitch.
+
 <style>
 /* Typewriter cursor effect */
 #typewriter {
