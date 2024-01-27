@@ -121,14 +121,6 @@ permalink: /blog/:title
 paginate_path: "/blog/page:num"
 paginate:     5
 
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: archive
-  permalinks:
-    category: '/categories/:name/'
-    tag: '/tags/:name/'
 
 #pagination v2 setup
 #pagination:
@@ -147,7 +139,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-archives
 
 # https://github.com/jekyll/jekyll/issues/2938
 

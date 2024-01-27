@@ -14,28 +14,17 @@ layout: default
     <span class="post-meta">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}
   <span class="post-meta small">
-    {% if page.minutes %}
-      {{ page.minutes }} {{ site.text.post.minute_read | default: "minute read" }}
-    {% else %}
-      {{ minutes }} {{ site.text.post.minute_read | default: "minute read" }}
-    {% endif %}
+  {% if page.minutes %}
+    {{ page.minutes }} {{ site.text.post.minute_read | default: "minute read" }}
+  {% else %}
+    {{ minutes }} {{ site.text.post.minute_read | default: "minute read" }}
+  {% endif %}
   </span>
 </div>
 
 <article class="post-content">
   {{ content }}
 </article>
-
-<!-- Categories at the bottom -->
-{% if page.categories %}
-<div class="post-categories">
-  Categories:
-  {% assign sorted_categories = page.categories | sort %}
-  {% for category in sorted_categories %}
-    <a href="{{ '/categories/' | append: category | relative_url }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-  {% endfor %}
-</div>
-{% endif %}
 
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}

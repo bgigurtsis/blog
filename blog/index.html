@@ -6,19 +6,6 @@ pagination:
 {% assign posts_count = paginator.posts | size %}
 
 <div class="home">
-  <!-- Categories -->
-  <div class="categories">
-      <h3>what are we learning today?</h3>
-      <p>
-          {% assign sorted_categories = site.categories | sort %}
-          {% for category in sorted_categories %}
-              <a href="{{ '/categories/' | append: category[0] }}">{{ category[0] }}</a>{% unless forloop.last %}, {% endunless %}
-          {% endfor %}
-      </p>
-  </div>
-
-
-  <!-- Posts -->
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
@@ -41,6 +28,7 @@ pagination:
         </div>
       {% endfor %}
     </div>
+
     {% include pagination.html %}
   {% else %}
     <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
