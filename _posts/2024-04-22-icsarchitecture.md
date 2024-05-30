@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      ICS Security Architecture
-date:       2022-08-26 23:40:00
+date:       2024-04-22 23:40:00
 summary:    A broad introduction to ICS / ICS security architecture
 categories: security
 comments: true
