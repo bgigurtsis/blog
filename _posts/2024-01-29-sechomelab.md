@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Security analysis homelab
-date:       2022-08-25 23:40:00
+date:       2024-01-29 23:40:00
 summary:    Overview of my security analysis homelab (Splunk/pfSense)
 categories: security
 comments: true
