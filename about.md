@@ -5,14 +5,12 @@ permalink: /about/
 tags: about
 ---
 
-I'm Billy Gigurtsis, an IT professional from London, England. My career started around two years ago training as a desktop support engineer. Since then I’ve expanded my experience through multiple contracts in various IT support roles and my current perm role at Ping Identity. I hope to transition away from IT support into Information security in the near future.
+Hi there! I'm Billy Gigurtsis, a passionate cybersecurity professional with a strong focus on cloud security engineering. With expertise spanning endpoint, infrastructure, architecture, and threat modeling, I bring a well-rounded approach to securing digital assets. I thrive in fast-paced environments, where I've led high-performing teams and built robust security programs from the ground up.
 
-I built this website [partly as a learning exercise](https://www.bgigurtsis.com/2021/02/amplify.html). It's Jekyll based, hosted on AWS/GitHub with CI/CD integration. I'm an avid programmer, currently using Python and C/C++ for an Arduino project. I've also begun learning Clojure to satiate my interest in functional programming. Most of these projects can be found on my [GitHub](https://github.com/bgigurtsis).
+My love for cloud security, especially within the AWS ecosystem, drives me to architect and implement secure solutions using the latest technologies and best practices. I'm a firm believer in shifting security left and collaborating closely with development teams to create secure CI/CD pipelines and promote infrastructure-as-code tools like Terraform.
 
-In my spare time I love to volunteer. I have the time and the skills so it makes sense to use those to help where I can. Recently I travelled to northern Sweden to help integrate youth back into society. I also participate as a mentor in my local 'CoderDojo' where children come to learn about programming through [Scratch](https://scratch.mit.edu/). You can read about the rest of my volunteering roles at the bottom of my [CV](https://www.bgigurtsis.com/CV).
+Continuous learning is a core part of who I am. I hold multiple certifications, including AWS Certified Security, CompTIA Security+, GIAC GFACT, and GIAC GSEC, which showcase my commitment to staying current with industry standards and best practices. I'm also deeply curious about various aspects of cybersecurity, such as public cloud security research, OT security, functional programming, Arduino, and low-level computing.
 
-Another of my interests is film, especially documentaries. For me it's an easy way to learn about everything from obscure social movements to what it’s like to live in the Taiga. Have a look at my [letterboxd](https://letterboxd.com/icy100/) profile for a list of my favourite films.
-
-I hope you enjoy my website and please get in [touch](https://www.bgigurtsis.com/contact/) if you have any questions - or just want to chat!
+Through this blog, I aim to share my insights, experiences, and passion for cybersecurity with the broader community. If you'd like to connect, discuss potential collaborations, or just geek out about all things security, feel free to reach out. I'm always eager to engage with like-minded professionals and explore new opportunities in this exciting field!
 
 ![Kat and I](https://www.bgigurtsis.com/pictures/profile.png)
