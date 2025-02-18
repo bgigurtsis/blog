@@ -5,12 +5,13 @@ permalink: /about/
 tags: about
 ---
 
-Hi there! I'm Billy Gigurtsis, a passionate cybersecurity professional with a strong focus on cloud security engineering. With expertise spanning endpoint, infrastructure, architecture, and threat modeling, I bring a well-rounded approach to securing digital assets. I thrive in fast-paced environments, where I've led high-performing teams and built robust security programs from the ground up.
 
-My love for cloud security, especially within the AWS ecosystem, drives me to architect and implement secure solutions using the latest technologies and best practices. I'm a firm believer in shifting security left and collaborating closely with development teams to create secure CI/CD pipelines and promote infrastructure-as-code tools like Terraform.
+Hey! I'm Billy, a cybersecurity professional who's found a love for cloud security engineering. The cloud, especially AWS, is where I get to combine my technical skills with my love for building secure and scalable systems.
 
-Continuous learning is a core part of who I am. I hold multiple certifications, including AWS Certified Security, CompTIA Security+, GIAC GFACT, and GIAC GSEC, which showcase my commitment to staying current with industry standards and best practices. I'm also deeply curious about various aspects of cybersecurity, such as public cloud security research, OT security, functional programming, Arduino, and low-level computing.
+I've had the privilege of leading security programs from scratch, which has taught me that great security is as much about people and processes as it is about technology. Whether I'm architecting secure AWS environments, implementing CI/CD, or collaborating with dev teams, I believe in implementing security that balances both keeping the business running and reducing risk!
 
-Through this blog, I aim to share my insights, experiences, and passion for cybersecurity with the broader community. If you'd like to connect, discuss potential collaborations, or just geek out about all things security, feel free to reach out. I'm always eager to engage with like-minded professionals and explore new opportunities in this exciting field!
+My curiosity drives me to constantly explore new areas, from OT security to Arduino and low-level computing. I find the rapidly evolving world of cybersecurity fascinating, and I'm always eager to learn more. This drive has led me to earn several certifications including AWS Security and a couple of certs from SANS!
 
-![Kat and I](https://www.bgigurtsis.com/pictures/profile.png)
+When I'm not immersed in cloud security, you might find me experimenting with functional programming or choreographing performances. I started this blog to share what I've learned along the way and hopefully contribute something valuable to the security community.
+
+I'm always up for connecting, so please do drop me a line if you'd like to say hi - https://www.linkedin.com/in/bgigurtsis/ !

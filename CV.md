@@ -5,4 +5,4 @@ permalink: /CV/
 tags: CV
 ---
 
- Please click to download my CV as a [word document](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.docx) or a [pdf](https://www.bgigurtsis.com/CVs/Billy%20Gigurtsis%20CV.pdf). I'm also on [LinkedIn](https://www.linkedin.com/in/bgigurtsis/).
+My CV is currently out of date, and so this page will be updated with a new one as time permits.
