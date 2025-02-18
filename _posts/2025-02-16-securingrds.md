@@ -23,7 +23,7 @@ The creation of this guide, and indeed the original setup, required the correlat
 
 This project involved using two things that are quite possibly my weakest areas: databases and AWS networking. Because of this, it was and is very much a learning experience.
 
-**Parts of this guide may be inaccurate or incorrect. I** would greatly appreciate advice on what could be done better here!
+**Parts of this guide may be inaccurate or incorrect.**I would greatly appreciate advice on what could be done better here!
 
 On the other hand, I think I managed to set up something and correlate information that several guides have failed to communicate effectively. On that basis, I hope that this guide can help someone looking to achieve a rather complex form of RDS authentication.
 
