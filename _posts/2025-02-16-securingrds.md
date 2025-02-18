@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "A secure alternative to traditional RDS access using AWS Identity Center (SSO), SSM, and IAM with ephemeral tokens"
@@ -7,7 +6,6 @@ summary: "A story of frustration and (lack of) documentation"
 categories: aws rds documentation
 comments: true
 ---
-```
 
 # Part 0: Introduction
 
