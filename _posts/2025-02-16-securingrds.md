@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Securing RDS authentication using SSO and ephemeral login tokens"
+title: "Secure RDS authentication using SSO and ephemeral login tokens"
 date: 2025-02-18 12:00:00
 summary: "A secure alternative to traditional RDS access."
 categories: aws rds documentation
