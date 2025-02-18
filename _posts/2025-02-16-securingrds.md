@@ -118,10 +118,8 @@ Launch a new RDS PostgreSQL instance with:
 5. Attach the RDS security group and edit it as below:
 
     ```json
-    {
-      "Inbound": "Postgres (5432) from Bastion Security Group ID only",
-      "Outbound": "All traffic to any IP"
-    }
+    "Inbound": "Postgres (5432) from Bastion Security Group ID only",
+    "Outbound": "All traffic to any IP"
     ```
 
 ## Bastion Host Configuration
@@ -137,10 +135,8 @@ Launch an EC2 instance with the following settings:
 6. Create/attach a security group with:
 
     ```json
-    {
-      "Inbound": "No rules",
-      "Outbound": "SSM (443) to any IP and Postgres (5432) to the RDS SG"
-    }
+    "Inbound": "No rules",
+    "Outbound": "SSM (443) to any IP and Postgres (5432) to the RDS SG"
     ```
 
 ## Identity Center Configuration
