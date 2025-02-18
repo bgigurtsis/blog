@@ -103,7 +103,7 @@ The answer is that **for some reason VPC interface endpoints cannot be placed on
 
 Above: trying to create an interface endpoint on a VPC without a NAT gateway.
 
-Instead of paying, we can simply not use the public subnets, not attach an internet gateway, and limit internet access that way. I think this is still a secure way of doing things? But please feel free to tell me otherwise!
+Instead of paying, we can create a regular VPC with 2 public / private subnets, and attached the endpoint interfaces to the private subnets. This is still (I think) secure as there is no internet or NAT gateway to allow for public connections.
 
 # Part 2: Implementing Secure Access
 
