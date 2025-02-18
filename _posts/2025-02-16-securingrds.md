@@ -119,10 +119,8 @@ Launch a new RDS PostgreSQL instance with:
 
     ```json
     {
-      "RDS Security Group": {
-        "Inbound": "Postgres (5432) from Bastion Security Group ID only",
-        "Outbound": "All traffic to any IP"
-      }
+      "Inbound": "Postgres (5432) from Bastion Security Group ID only",
+      "Outbound": "All traffic to any IP"
     }
     ```
 
