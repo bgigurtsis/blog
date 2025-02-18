@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A secure alternative to traditional RDS access using AWS Identity Center (SSO), SSM, and IAM with ephemeral tokens"
+title: "Securing RDS Authentication"
 date: 2025-02-18 12:00:00
-summary: "A story of frustration and (lack of) documentation"
+summary: "A secure alternative to traditional RDS access using SSO, IAM, and ephemeral tokens"
 categories: aws rds documentation
 comments: true
 ---
