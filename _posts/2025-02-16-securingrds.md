@@ -107,6 +107,25 @@ Instead of paying, we can simply not use the public subnets, not attach an inter
 
 # Part 2: Implementing Secure Access
 
+## RDS Instance Configuration
+
+Launch a new RDS PostgreSQL instance with:
+
+1. PostgreSQL 14 or later
+2. Disabled public access
+3. Select "Enable IAM database authentication"
+4. Deploy in private subnet `Private Subnet 1`
+5. Attach the RDS security group and edit it as below:
+
+    ```json
+    {
+      "RDS Security Group": {
+        "Inbound": "Postgres (5432) from Bastion Security Group ID only",
+        "Outbound": "All traffic to any IP"
+      }
+    }
+    ```
+
 ## Bastion Host Configuration
 
 Launch an EC2 instance with the following settings:
@@ -122,26 +141,7 @@ Launch an EC2 instance with the following settings:
     ```json
     {
       "Inbound": "No rules",
-      "Outbound": "All traffic (this could probably be limited to SSM (443) and the RDS SG but I haven't had time to test it)."
-    }
-    ```
-
-## RDS Instance Configuration
-
-Launch a new RDS PostgreSQL instance with:
-
-1. PostgreSQL 14 or later
-2. Disabled public access
-3. Select "Enable IAM database authentication"
-4. Deploy in private subnet `Private Subnet 1`
-5. Attach the RDS security group and edit it as below:
-
-    ```json
-    {
-      "RDS Security Group": {
-        "Inbound": "PostgreSQL (5432) from Bastion Security Group ID only",
-        "Outbound": "RDS (5432) and HTTPS (443) for SSM"
-      }
+      "Outbound": "SSM (443) to any IP and Postgres (5432) to the RDS SG"
     }
     ```
 
