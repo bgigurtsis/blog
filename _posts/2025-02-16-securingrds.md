@@ -7,6 +7,8 @@ categories: aws rds documentation
 comments: true
 ---
 
+Or, a secure alternative to traditional RDS access using SSO, IAM, and ephemeral RDS login tokens.
+
 # Part 0: Introduction
 
 Accessing RDS from human endpoints traditionally involves managing static credentials, VPN connections, and/or exposing bastion hosts to the internet.
